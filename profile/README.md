@@ -1,7 +1,5 @@
 ## Hello there 👋 A warm welcome to ThirdEye's Organisation
  
-<!--
-
 **त्रिनेत्रस्य परमशक्तिः**
 
 🙋‍♀️ Welcome to ThirdEye – a dynamic GitHub organization where the brilliance of multi-domain coders converges. Inspired by the mystique and intuition associated with the Third Eye, we're more than just a group; we're a community driven by innovation and powered by smart ideas and cutting-edge technology.
