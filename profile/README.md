@@ -12,4 +12,4 @@
 
 🧙 **Remember**: With the power of Markdown, you can unleash your creativity and showcase your projects with style. Explore the possibilities and embark on your coding adventures with ThirdEye.
 
-Join us and discover how together, with the power of collaboration and innovation, we can shape the future of technology.-->
+Join us and discover how together, with the power of collaboration and innovation, we can shape the future of technology.
